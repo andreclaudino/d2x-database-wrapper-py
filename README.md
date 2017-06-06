@@ -1,1 +1,2 @@
+[![Stories in Ready](https://badge.waffle.io/d2x-opensource/d2x-database-wrapper.png?label=ready&title=Ready)](https://waffle.io/d2x-opensource/d2x-database-wrapper?utm_source=badge)
 # d2x-database-wrapper
