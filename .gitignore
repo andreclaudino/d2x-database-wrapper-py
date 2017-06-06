@@ -1,0 +1,8 @@
+
+environment/lib/
+
+environment/include/
+
+environment/bin/
+
+environment/pip-selfcheck\.json
