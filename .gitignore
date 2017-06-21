@@ -6,3 +6,13 @@ environment/include/
 environment/bin/
 
 environment/pip-selfcheck\.json
+
+python_version/__pycache__/
+
+python_version/bin/
+
+python_version/lib/
+
+python_version/include/
+
+python_version/pip-selfcheck\.json
