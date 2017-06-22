@@ -16,3 +16,19 @@ python_version/lib/
 python_version/include/
 
 python_version/pip-selfcheck\.json
+
+__pycache__/
+
+bin/
+
+include/
+
+lib/
+
+flask
+
+pip-selfcheck\.json
+
+dbwrap/\.idea/
+
+dbwrap/dbwrap\.egg-info/
